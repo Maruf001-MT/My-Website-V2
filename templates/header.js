@@ -8,7 +8,7 @@ function headerTemplate() {
             <div class="container">
 
                 <!-- Logo -->
-                <a class="logo icon-img-100" href="#">
+                <a class="logo icon-img-100" href="/">
                     <img src="/assets/imgs/logo.svg" alt="logo">
                 </a>
 
@@ -23,7 +23,7 @@ function headerTemplate() {
                             <a class="nav-link" href="#0" data-scroll-nav="0"><span class="rolling-text">Home</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#0" data-scroll-nav="1"><span
+                            <a class="nav-link" href="/coming-soon" data-scroll-nav="1"><span
                                     class="rolling-text">Services</span></a>
                         </li>
                         <li class="nav-item">

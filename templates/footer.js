@@ -12,21 +12,21 @@ function footerTemplate() {
             </div>
             <div class="col-lg-4 order-md-3">
                 <div class="text-center">
-                    <p class="fz-14">© 2023 InFolio is Proudly Powered by <span class="underline main-color"><a href="https://themeforest.net/user/ui-themez"
-                                target="_blank">UI-ThemeZ</a></span></p>
+                    <p class="fz-14">© 2024 Made with ❤ by <span class="underline main-color"><a href="/"
+                                target="_blank">Maruf Zisan</a></span></p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 order-md-2 md-mb15">
                 <div class="links d-flex justify-content-end">
                     <ul class="rest d-flex align-items-center">
                         <li>
-                            <a href="page-FAQS.html">FAQ</a>
+                            <a href="#">FAQ</a>
                         </li>
                         <li class="ml-30">
-                            <a href="page-about3.html">Careers</a>
+                            <a href="#">Careers</a>
                         </li>
                         <li class="ml-30">
-                            <a href="page-contact3.html">Contact Us</a>
+                            <a href="#">Contact Us</a>
                         </li>
                     </ul>
                 </div>
