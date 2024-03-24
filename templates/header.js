@@ -31,7 +31,7 @@ function headerTemplate() {
                                     class="rolling-text">About</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#0" data-scroll-nav="3"><span
+                            <a class="nav-link" href="/portfolio"><span
                                     class="rolling-text">Portfolio</span></a>
                         </li>
                         <li class="nav-item">

@@ -7,7 +7,7 @@ function footerTemplate() {
         <div class="row">
             <div class="col-lg-4 col-md-6 md-mb15">
                 <div class="logo icon-img-100">
-                    <img src="assets/imgs/logo-light.png" alt="">
+                    <img src="/assets/imgs/logo.svg" alt="">
                 </div>
             </div>
             <div class="col-lg-4 order-md-3">
