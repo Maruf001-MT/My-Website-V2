@@ -9,7 +9,7 @@ function headerTemplate() {
 
                 <!-- Logo -->
                 <a class="logo icon-img-100" href="#">
-                    <img src="assets/imgs/logo-light.png" alt="logo">
+                    <img src="/assets/imgs/logo.svg" alt="logo">
                 </a>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,9 +38,7 @@ function headerTemplate() {
                             <a class="nav-link" href="#0" data-scroll-nav="4"><span
                                     class="rolling-text">Clients</span></a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#0" data-scroll-nav="5"><span class="rolling-text">Blog</span></a>
-                        </li>
+
                         <li class="nav-item">
                             <a class="nav-link" href="#0" data-scroll-nav="6"><span
                                     class="rolling-text">Contact</span></a>
